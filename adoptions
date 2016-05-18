@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Adoptions</title>
+</head> 
+<body>
+<table border="1">
+ <tr>
+<td>Breed</td>
+<td>Name</td>
+<td>Age</td>
+<td>Photo</td>
+</tr>
+ <tr>
+<td>Sharpei</td>
+<td>Patrocle</td>
+<td>3</td>
+<td><a href="http://www.dogbreedinfo.com/images19/SharPeiUrsus3YearsOldIceland2.JPG">Link</a></td>
+</tr>
+</table> 
+</body> 
+</HTML> 
