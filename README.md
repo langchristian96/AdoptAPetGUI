@@ -14,13 +14,18 @@ photograph on the presentation site of the centre). The administrators will also
 all the dogs in the shelter.
 User mode: A user can access the application and choose one or more dogs to adopt. The application
 will allow the user to:
-a. See the dogs in the database, one by one. When the user chooses this option, the data of the
+
+a. See the dogs in the database, one by one. When the user chooses this op
+tion, the data of the
 first dog (breed, name, age) is displayed, along with its photograph.
 b. Choose to adopt the dog, in which case the dog is added to the user’s adoption list.
+
 c. Choose not to adopt the dog and to continue to the next. In this case, the information
 corresponding to the next dog is shown and the user is again offered the possibility to adopt it.
 This can continue as long as the user wants, as when arriving to the end of the list, if the user
 chooses next, the application will again show the first dog.
+
 d. See all the dogs of a given breed, having an age less than a given number. If the breed is empty,
 then all the dogs will be considered. The same options (a, b and c) apply in this case.
+
 e. See the adoption list.
